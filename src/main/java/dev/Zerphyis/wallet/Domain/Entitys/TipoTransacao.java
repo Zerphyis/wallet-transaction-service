@@ -1,4 +1,4 @@
-package dev.Zerphyis.wallet.Domain;
+package dev.Zerphyis.wallet.Domain.Entitys;
 
 public enum TipoTransacao {
     DEPOSIT,
